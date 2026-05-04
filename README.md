@@ -118,16 +118,3 @@ No aplica, ya que el sistema no incluye módulo de autenticación.
 * Si se limpia el almacenamiento del navegador, los productos y ventas se eliminarán.
 * El sistema no utiliza base de datos MySQL.
 * Para una versión futura se podría incorporar login de usuarios, base de datos y reportes.
-
-## Control de versiones sugerido
-
-Para cumplir con el requisito de GitHub, se recomienda realizar al menos 7 commits reales:
-
-1. `Crear estructura inicial del proyecto`
-2. `Agregar header y footer reutilizables`
-3. `Crear pantalla principal personalizada`
-4. `Agregar estilos visuales del sistema`
-5. `Crear vista de productos`
-6. `Implementar CRUD de productos con localStorage`
-7. `Implementar módulo de ventas y documentación final`
-
